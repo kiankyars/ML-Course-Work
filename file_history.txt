@@ -1,0 +1,135 @@
+{
+  "./file_history_tracker.py": [
+    {
+      "timestamp": 1745427743.5417635,
+      "datetime": "2025-04-23T11:02:23.541764",
+      "size": 2748
+    }
+  ],
+  "./settings.json": [
+    {
+      "timestamp": 1660830614.0,
+      "datetime": "2022-08-18T07:50:14",
+      "size": 56
+    }
+  ],
+  "./dfs-cycle2.txt": [
+    {
+      "timestamp": 1660830212.0,
+      "datetime": "2022-08-18T07:43:32",
+      "size": 59
+    }
+  ],
+  "./dfs-cycle1.txt": [
+    {
+      "timestamp": 1660830190.0,
+      "datetime": "2022-08-18T07:43:10",
+      "size": 87
+    }
+  ],
+  "./graph_utils.py": [
+    {
+      "timestamp": 1660829972.0,
+      "datetime": "2022-08-18T07:39:32",
+      "size": 5897
+    }
+  ],
+  "./a_star.py": [
+    {
+      "timestamp": 1680883587.5115893,
+      "datetime": "2023-04-07T10:06:27.511589",
+      "size": 4370
+    }
+  ],
+  "./README.md": [
+    {
+      "timestamp": 1745427375.5665565,
+      "datetime": "2025-04-23T10:56:15.566556",
+      "size": 42
+    }
+  ],
+  "./graph.png": [
+    {
+      "timestamp": 1660830322.0,
+      "datetime": "2022-08-18T07:45:22",
+      "size": 45593
+    }
+  ],
+  "./cycle-graphs.png": [
+    {
+      "timestamp": 1660830154.0,
+      "datetime": "2022-08-18T07:42:34",
+      "size": 64668
+    }
+  ],
+  "./bfs.py": [
+    {
+      "timestamp": 1680797985.374525,
+      "datetime": "2023-04-06T10:19:45.374525",
+      "size": 3186
+    }
+  ],
+  "./bfs-graph.txt": [
+    {
+      "timestamp": 1660830088.0,
+      "datetime": "2022-08-18T07:41:28",
+      "size": 85
+    }
+  ],
+  "./dfstest.py": [
+    {
+      "timestamp": 1682706772.0917518,
+      "datetime": "2023-04-28T12:32:52.091752",
+      "size": 1436
+    }
+  ],
+  "./dfs_cycle_detect.py": [
+    {
+      "timestamp": 1660830294.0,
+      "datetime": "2022-08-18T07:44:54",
+      "size": 2720
+    }
+  ],
+  "./bfs-graph.png": [
+    {
+      "timestamp": 1660830038.0,
+      "datetime": "2022-08-18T07:40:38",
+      "size": 70519
+    }
+  ],
+  "./dfs-graph.txt": [
+    {
+      "timestamp": 1660830232.0,
+      "datetime": "2022-08-18T07:43:52",
+      "size": 86
+    }
+  ],
+  "./graph2.txt": [
+    {
+      "timestamp": 1660831172.0,
+      "datetime": "2022-08-18T07:59:32",
+      "size": 127
+    }
+  ],
+  "./graph1.txt": [
+    {
+      "timestamp": 1660831148.0,
+      "datetime": "2022-08-18T07:59:08",
+      "size": 33
+    }
+  ],
+  "./dfs.py": [
+    {
+      "timestamp": 1680785772.693279,
+      "datetime": "2023-04-06T06:56:12.693279",
+      "size": 3850
+    }
+  ],
+  "./__pycache__/graph_utils.cpython-39.pyc": [
+    {
+      "timestamp": 1679078534.240466,
+      "datetime": "2023-03-17T12:42:14.240466",
+      "size": 4825
+    }
+  ]
+}
